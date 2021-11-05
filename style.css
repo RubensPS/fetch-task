@@ -1,0 +1,29 @@
+h1 {
+    width: 50%;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 10rem;
+}
+
+#modelo, #marca {
+    margin-bottom: 1rem;
+    margin-top: 0;
+}
+
+form {
+    margin-bottom: 1rem;
+    margin-left: 16rem;
+}
+
+table, th, td {
+    border: 0.1rem solid rgb(0, 0, 0);
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+    margin-left: 10rem;
+}
+
+th, td {
+    width: 50%;
+}
+
